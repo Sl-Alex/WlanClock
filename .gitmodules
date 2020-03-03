@@ -1,0 +1,3 @@
+[submodule "rgbmatrix-fpga-fm6126a"]
+	path = rgbmatrix-fpga-fm6126a
+	url = git@github.com:Sl-Alex/rgbmatrix-fpga-fm6126a.git
