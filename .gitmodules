@@ -1,3 +1,6 @@
 [submodule "rgbmatrix-fpga-fm6126a"]
 	path = rgbmatrix-fpga-fm6126a
 	url = git@github.com:Sl-Alex/rgbmatrix-fpga-fm6126a.git
+[submodule "omega2_source"]
+	path = omega2_source
+	url = git@github.com:Sl-Alex/omega2_source.git
